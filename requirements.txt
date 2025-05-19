@@ -1,0 +1,4 @@
+pandas
+seaborn
+numpy
+-e .  # to tirger setup.py for install the requirements by  function from setup.py
